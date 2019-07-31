@@ -20,9 +20,11 @@ https://en.wikipedia.org/wiki/Class_Struggle_(board_game)
 a board game for two to six players, designed by Professor Bertell Ollman. It was published in 1978 by Avalon Hill. The game was intended to teach players about the politics of Marxism, and was loosely compared the board game, Monopoly.
 
 With plenty of leftist references, this also made us wonder about the relations today between coworking (and maker?) spaces and trade/labour unions. The issues discussed in the [first workshop note](https://github.com/cheapjack/P3K/blob/master/discussion01.md) seems quite widespread to tackle. 
+
 Kat mentioned [*Ghost Work*](https://ghostwork.info/) by Mary L. Gray which also had some sections pondering about the role of coworking or shared spaces for today's remote, dispersed workers. 
 
 We are making a list of games here: https://github.com/cheapjack/P3K/wiki/Games-Ideas-&-Notes
+
 Next meeting we'll brainstorm on how we interpret this into our own game for the kit. 
 
 
