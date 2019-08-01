@@ -1,6 +1,6 @@
 # Notes for online chats on 31 July 2019
 Hwa Young, Ross, and kat
-Tried using wheeliepad, but internet seems to be not stable enough. Ended up using [Jitsi](https://meet.jit.si/).
+Tried using [wheeliepad](https://twitter.com/wheeliepad), but internet seems to be not stable enough. Ended up using [Jitsi](https://meet.jit.si/).
 
 We are discussing about how we proceed in making the kit. One idea that popped up about the making of the kit is if we make games that can help craft the collective experience of precarity. It can be a play on snake and ladder or monopoly, a way to make people realise the condition that they are in, how they get out, etc. (but yes, we'll try to be more creative than S&L and Monopoly!). Some of the references that popped up during the chats are:
 
@@ -23,9 +23,12 @@ With plenty of leftist references, this also made us wonder about the relations 
 
 Kat mentioned [*Ghost Work*](https://ghostwork.info/) by Mary L. Gray which also had some sections pondering about the role of coworking or shared spaces for today's remote, dispersed workers. 
 
-We are making a list of games here: https://github.com/cheapjack/P3K/wiki/Games-Ideas-&-Notes
+We are making a wiki of games and ideas here: https://github.com/cheapjack/P3K/wiki/Games-Ideas-&-Notes 
 
-Next meeting we'll brainstorm on how we interpret this into our own game for the kit. 
+Many of these are in response to the notes from the first P3K workshop and our meeting.
+
+Next meeting we'll brainstorm on how we interpret this into our own game for the kit.
+
 
 
 
